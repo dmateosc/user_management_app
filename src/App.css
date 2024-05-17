@@ -1,0 +1,15 @@
+header {
+  background-color: #333;
+  padding: 20px;
+  color: #fff;
+}
+
+main {
+  padding: 20px;
+}
+h1 {
+  font-size: 28px;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+  text-align: center;
+}
